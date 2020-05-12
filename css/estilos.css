@@ -1,0 +1,37 @@
+body {
+    background-image: url('https://miro.medium.com/max/1400/1*jQ8yqiVywH2_K8Ghlz-Esw.jpeg');
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: white;  
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu ul {
+    display:flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    color: whitesmoke;
+    text-align: right;
+  }
